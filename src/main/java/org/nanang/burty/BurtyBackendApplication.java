@@ -1,4 +1,4 @@
-package org.example.burtybackend;
+package org.nanang.burty;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
